@@ -9,5 +9,7 @@ public class Hello {
         for (int j = 0; j < 10; j++) {
             System.out.println("***** Trigger based *****");
         }
+
+        System.out.println("Jenkins auto trigger");
     }
 }
